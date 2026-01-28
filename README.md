@@ -1,4 +1,4 @@
-# 🌈 Vibers Dashboard (Vibe Coding)
+#  Transit Dashboard (Vibe Coding)
 
 <p align="center">
   <img src="logo/logo.png" alt="Transit Logo" width="150">
@@ -27,7 +27,7 @@ The app doesn't just change colors; it switches between different **functional w
 - **Beast Mode:** Shows dense data tables and system metrics.
 - **Creative Mode:** Shows sketchpads and color palettes.
 
-### 2. Five Distinct "Vibers" (Modes)
+### 2. Five Distinct "Transit" (Modes)
 | Vibe | Trigger Keywords | Visual Style |
 | :--- | :--- | :--- |
 | **🧘 ZEN** | `stress`, `calm`, `relax`, `breathe`, `yoga` | Soft Purple, Round UI |
