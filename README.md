@@ -1,14 +1,12 @@
-# Transit Dashboard (Vibe Coding)
+# 🌈 Vibers Dashboard (Vibe Coding)
 
 <p align="center">
-  <img src="logo/logo.png" alt="Project Logo" width="120"/>
+  <img src="logo/logo.png" alt="Transit Logo" width="150">
 </p>
-
-
 
 > **"Sync Your Interface with Your Vibe."**
 
-**Transit** is a Generative UI experiment where the entire dashboard—layout, colors, fonts, and components—restructures itself in real-time based on the user's intent and emotional state, powered by a Local LLM (Llama 3 via Ollama).
+**Vibers** is a Generative UI experiment where the entire dashboard—layout, colors, fonts, and components—restructures itself in real-time based on the user's intent and emotional state, powered by a Local LLM (Llama 3 via Ollama).
 
 ---
 
@@ -29,7 +27,7 @@ The app doesn't just change colors; it switches between different **functional w
 - **Beast Mode:** Shows dense data tables and system metrics.
 - **Creative Mode:** Shows sketchpads and color palettes.
 
-### 2. Five Distinct "Transit" (Modes)
+### 2. Five Distinct "Vibers" (Modes)
 | Vibe | Trigger Keywords | Visual Style |
 | :--- | :--- | :--- |
 | **🧘 ZEN** | `stress`, `calm`, `relax`, `breathe`, `yoga` | Soft Purple, Round UI |
@@ -49,6 +47,16 @@ The app doesn't just change colors; it switches between different **functional w
 4.  **Transformation:**
     *   **CSS:** The `<body>` class is swapped, instantly changing CSS Variables.
     *   **HTML:** The dashboard switches to a new set of components.
+
+---
+
+## 🤖 AI System Prompt
+
+The application uses the following prompt to guide the Local LLM's decision-making process:
+
+```text
+Classify this intent: "{user_input}". Options: ZEN, BEAST, CREATIVE, CYBER, NATURE. Output ONLY the one word.
+```
 
 ---
 
