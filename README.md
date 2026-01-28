@@ -15,7 +15,7 @@
 **The Challenge:** Modern dashboards are static. Whether you are stressed, hyper-productive, or brainstorming, the UI remains the same.
 **The Solution:** **Vibers** allows your interface to shift into different states automatically based on how you feel.
 - **User says:** *"I am stressed."* -> **App becomes:** A calming Zen garden.
-- **User says:** *"Show me the money!"* -> **App becomes:** A high-contrast financial terminal.
+- **User says:** *"Wanna make money"* -> **App becomes:** A high-contrast financial terminal.
 
 ---
 
