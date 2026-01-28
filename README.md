@@ -1,6 +1,9 @@
-# 🌈 Transit Dashboard (Vibe Coding)
+# Transit Dashboard (Vibe Coding)
 
-![Project Logo](logo/logo.png)
+<p align="center">
+  <img src="logo/logo.png" alt="Project Logo" width="120"/>
+</p>
+
 
 
 > **"Sync Your Interface with Your Vibe."**
