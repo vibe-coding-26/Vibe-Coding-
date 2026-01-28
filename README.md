@@ -60,4 +60,4 @@ Classify this intent: "{user_input}". Options: ZEN, BEAST, CREATIVE, CYBER, NATU
 
 ---
 
-*Built with ❤️ by Vibers using Vanilla JS & Llama 3.*
+*Built with ❤️ by Vibers using Vanilla JS*
