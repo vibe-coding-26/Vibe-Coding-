@@ -6,7 +6,7 @@
 
 > **"Sync Your Interface with Your Vibe."**
 
-**Vibers** is a Generative UI experiment where the entire dashboard—layout, colors, fonts, and components—restructures itself in real-time based on the user's intent and emotional state, powered by a Local LLM (Llama 3 via Ollama).
+**Transit** is a Generative UI experiment where the entire dashboard—layout, colors, fonts, and components—restructures itself in real-time based on the user's intent and emotional state, powered by a Local LLM (Llama 3 via Ollama).
 
 ---
 
